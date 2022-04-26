@@ -17,7 +17,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 ## Deploy On Heroku
-<p><a href="https://heroku.com/deploy?template=https://github.com/REX-BOTZ/REX-FILE-STORING"> <img src="https://img.shields.io/badge/Deploy%20on%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Ellproject/REX-FILE-STORING"> <img src="https://img.shields.io/badge/Deploy%20on%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 ### Admin Commands
 
